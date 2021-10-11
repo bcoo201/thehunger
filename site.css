@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.hg-page {
+  position: ;
+  cursor: crosshair;
+}
+
+
+img {
+  width: 100%;
+  position: ;
+  position: ;
+}
+
+@keyframes fade {
+  0% {
+        opacity:1;
+    }
+    45% {
+        opacity:1;
+    }
+    55% {
+        opacity:1;
+    }
+    100% {
+        opacity:0;
+    }
+}
+
+.col {
+  width: 7.692%;
+  height: 100%;
+  background-color: ;
+  float: ;
+  border: 1px solid black;
+  position: ;
+  z-index: 2;
+  display: inline-block;
+  padding: 0px;
+  margin: -3px;
+  cursor: crosshair;
+}
+
+
+.col: hover {
+  background-size: 150%;
+}
+
+
+.hg-intro-image-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  animation: fade 7s ;
+  animation-fill-mode: forwards;
+  z-index: 5;
+}
+
+
+.slide1 {
+  position: absolute;
+}
