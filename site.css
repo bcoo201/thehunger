@@ -45,7 +45,7 @@ margin: 0;
 .hg-col {
 width: 7.69%;
  height: 100%;
- border: 1px solid black;
+ border: ;
  box-sizing: border-box;
  z-index: 0;
  cursor: crosshair;
@@ -67,43 +67,43 @@ width: 7.69%;
   opacity: 1;
 }
 
-.hg-frame--3 .hg-background-image--frame-4 {
+.hg-frame--4 .hg-background-image--frame-4 {
   opacity: 1;
 }
 
-.hg-frame--3 .hg-background-image--frame-5 {
+.hg-frame--5 .hg-background-image--frame-5 {
   opacity: 1;
 }
 
-.hg-frame--3 .hg-background-image--frame-6 {
+.hg-frame--6 .hg-background-image--frame-6 {
   opacity: 1;
 }
 
-.hg-frame--3 .hg-background-image--frame-7 {
+.hg-frame--7 .hg-background-image--frame-7 {
   opacity: 1;
 }
 
-.hg-frame--3 .hg-background-image--frame-8 {
+.hg-frame--8 .hg-background-image--frame-8 {
   opacity: 1;
 }
 
-.hg-frame--3 .hg-background-image--frame-9 {
+.hg-frame--9 .hg-background-image--frame-9 {
   opacity: 1;
 }
 
-.hg-frame--3 .hg-background-image--frame-10 {
+.hg-frame--10 .hg-background-image--frame-10 {
   opacity: 1;
 }
 
-.hg-frame--3 .hg-background-image--frame-11 {
+.hg-frame--11 .hg-background-image--frame-11 {
   opacity: 1;
 }
 
-.hg-frame--3 .hg-background-image--frame-12 {
+.hg-frame--12 .hg-background-image--frame-12 {
   opacity: 1;
 }
 
-.hg-frame--3 .hg-background-image--frame-13 {
+.hg-frame--13 .hg-background-image--frame-13 {
   opacity: 1;
 }
 
