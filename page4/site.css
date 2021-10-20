@@ -2,6 +2,11 @@ body {
 margin: 0;
 }
 
+.click-container {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
 
 .hg-intro-image-1 {
   position: absolute;
