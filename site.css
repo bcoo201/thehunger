@@ -45,7 +45,7 @@ margin: 0;
 .hg-col {
 width: 7.69%;
  height: 100%;
- border: 1px solid black;
+ border: 0px solid black;
  box-sizing: border-box;
  z-index: 0;
  cursor: crosshair;
