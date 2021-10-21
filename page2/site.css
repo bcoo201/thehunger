@@ -2,14 +2,11 @@ body {
 margin: 0;
 }
 
-
 .click-container {
   height: 100%;
   width: 100%;
   position: fixed;
 }
-
-
 
 .hg-intro-image-1 {
   position: absolute;
@@ -37,8 +34,6 @@ margin: 0;
         opacity:0;
     }
 }
-
-
 
 .columns {
   width: 100%;
@@ -114,7 +109,6 @@ width: 7.69%;
 .hg-frame--13 .hg-background-image--frame-13 {
   opacity: 1;
 }
-
 
 .hg-background-image--frame-1{
   background-image:url('assets2/13.jpg');
